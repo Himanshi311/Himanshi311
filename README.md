@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Himanshi 👋
 
-<!--
-**Himanshi311/Himanshi311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. (Hons.) Mathematics student at Delhi University.
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst interested in problem-solving and data-driven insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+
+- SQL: Practicing queries and data analysis
+- Microsoft Excel: Learning data cleaning and analysis
+- Power BI: Developing data visualization skills
+
+## 🎯 Current Goals
+
+- Strengthen my SQL and data analysis skills.
+- Build practical projects using real-world datasets.
+- Improve my problem-solving and analytical thinking.
+- Learn to communicate insights clearly through data.
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/himanshi-1906723a6/)
+
+---
+
+*Learning, building, and improving one step at a time.* 🚀
+
